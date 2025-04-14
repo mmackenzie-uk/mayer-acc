@@ -1,3 +1,7 @@
+![alt text](https://github.com/mmackenzie-uk/mayer-acc/blob/main/Screenshot%20from%202025-04-14%2002-22-11.png)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
